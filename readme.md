@@ -3,7 +3,7 @@
 
 ## Running the code 
 Clone or download the code and training and test IMDb data sets to your PC and navigate to the `CMT307_coursework1_part2-master\Code` folder. The solution is contained within a single python script called `excercise2.py`. To run the the script in Linux:
- - Type chmod a+x hello.py to tell Linux that it is an executable program
+ - Type chmod a+x excercise2.py to tell Linux that it is an executable program
  - Type ./excercise2.py to run the script
 
 ## Extracting the data to Python lists
